@@ -17,6 +17,7 @@ Data Scientist / ML Engineer with hands-on experience across the full applied-ML
 |---|---|---|
 | [🏨 INN Hotels Cancellation Prediction](https://github.com/ADESHINAAJ/inn-hotels-cancellation-prediction) | Decision-tree classification with cost-complexity pruning on 36K bookings (32.8% cancellation rate) | scikit-learn, Pandas |
 | [🛂 EasyVisa Approval Prediction](https://github.com/ADESHINAAJ/easy-visa-approval-prediction) | Six tree ensembles compared head-to-head; F1 = 0.82 on 25K applications | XGBoost, sklearn |
+| [💳 Credit Card Customer Churn Prediction](https://github.com/ADESHINAAJ/credit-card-churn-prediction) | Imbalanced classification with SMOTE / undersampling; 7-model bake-off and RandomizedSearchCV tuning of AdaBoost & Gradient Boosting | scikit-learn, XGBoost, imbalanced-learn |
 | [💨 ReneWind Turbine Failure (Deep Learning)](https://github.com/ADESHINAAJ/renewind-turbine-deep-learning) | Feed-forward neural net with dropout and ROC-based threshold tuning on 5.5%-imbalanced sensor data | TensorFlow, Keras |
 | [⛑️ HelmNet — Helmet Detection CNN](https://github.com/ADESHINAAJ/helmet-detection-cnn) | Transfer learning with VGG-16 + data augmentation for workplace-safety image classification | TensorFlow, Keras, OpenCV |
 | [🛒 SuperKart Sales Forecasting (MLOps)](https://github.com/ADESHINAAJ/superkart-sales-forecasting-mlops) | Gradient Boosting regressor served as a Flask REST API in a Docker container on Hugging Face Spaces | sklearn, Flask, Docker |
