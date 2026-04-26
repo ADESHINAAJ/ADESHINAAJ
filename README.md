@@ -1,6 +1,6 @@
 # Hi, I'm Adeyemi 👋
 
-Data Scientist / ML Engineer with hands-on experience across the full applied-ML stack — from exploratory analysis and statistical inference, to classical ML and ensembles, to deep learning, computer vision, and Generative AI / RAG systems. I'm comfortable owning a problem end-to-end: framing the business question, building the model, and deploying it as a production API.
+Data Scientist / Analyst, comfortable in ML Engineer territory with hands-on experience across the full applied-ML stack — from exploratory analysis and statistical inference, to classical ML and ensembles, to deep learning, computer vision, and Generative AI / RAG systems. I own problems end-to-end: framing the business question, building the model, and deploying it as a production API.
 
 ## 🛠 What I work with
 
